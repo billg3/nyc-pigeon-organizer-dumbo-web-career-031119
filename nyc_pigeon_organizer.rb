@@ -8,8 +8,8 @@ def nyc_pigeon_organizer(data)
    value.each do |attribute, names|
    names.each do |x|
    ###  binding.pry
-     pigeons[x] = {}
-     
+     pigeons[x] = {key, }
+    
    
   end 
 end 
