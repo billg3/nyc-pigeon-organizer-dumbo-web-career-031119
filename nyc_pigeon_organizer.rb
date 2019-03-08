@@ -6,6 +6,8 @@ def nyc_pigeon_organizer(data)
    names.each do |x|
      
    
+   
+   
   name 
   hash 
    
