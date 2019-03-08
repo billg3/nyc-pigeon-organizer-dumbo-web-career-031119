@@ -10,7 +10,7 @@ def nyc_pigeon_organizer(data)
    #binding.pry
    pigeons [x] ||= {}
    pigeons[x][key] = []
-   pigeons[x][key] << [attribute.to_s]
+   pigeons[x][key] << attribute.to_s
     
   end 
 end 
