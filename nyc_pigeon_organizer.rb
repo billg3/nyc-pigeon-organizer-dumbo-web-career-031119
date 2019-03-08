@@ -9,8 +9,8 @@ def nyc_pigeon_organizer(data)
    names.each do |x|
    #binding.pry
     
-    pigeons[x] << {key => [attribute.to_s]}
-    binding.pry
+    pigeons[x] = {key => [attribute.to_s]}
+    
   end 
 end 
 end 
